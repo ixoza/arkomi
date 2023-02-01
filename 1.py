@@ -865,7 +865,7 @@ print(points(mot="QSDLJKNHIO"))
 
 
 
-
+#kjsdf
 
 
 
